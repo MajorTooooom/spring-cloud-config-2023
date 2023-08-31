@@ -1,2 +1,1 @@
-# spring-cloud-config-2023
-spring-cloud-config-2023
+当前仓库位于GitHub,作为SpringCloudConfig学习对应的远程仓库;
