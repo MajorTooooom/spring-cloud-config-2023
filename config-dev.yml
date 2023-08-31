@@ -1,2 +1,2 @@
 config:
-  info: "the content you are seeing comes from: branch=[master] file=[config-dev.yml]"
+  info: "the content you are seeing comes from: branch=[strange_branch] file=[config-dev.yml]"
