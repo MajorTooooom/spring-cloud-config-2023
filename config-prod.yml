@@ -1,2 +1,3 @@
 config:
   info: "the content you are seeing comes from: branch=[master] file=[config-prod.yml]"
+  version: 1.0.0
